@@ -28,8 +28,14 @@ Para ejecutar el juego localmente:
    git clone https://github.com/tuusuario/404Chicken.git
    ```
 2. Acceder a la carpeta del proyecto
+   ```bash
    cd 404Chicken
+   ```
 3. Instalar las dependencias necesarias (pygame en este caso)
+   ```bash
    pip install pygame
+   ```
 4. Ejecutar y disfrutar del 404Chicken!!
+   ```bash
    python main.py
+   ```
